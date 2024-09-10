@@ -1,0 +1,39 @@
+# .NET Core
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.publishsettings
+*.user
+*.suo
+*.userosscache
+*.suo
+*.cache
+*.log
+*.vscode/
+.vs/
+.idea/
+node_modules/
+
+# Angular
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.env
+frontend/*.log
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# npm
+package-lock.json
+yarn.lock
+
+# Other
+*.swp
+.project
+.classpath
+.settings/
